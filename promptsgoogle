@@ -1,0 +1,18 @@
+inurl: anonfiles.com intext: netflix filetype: txt pdf
+Alguns prompts usados no google dorks são esses aqui:
+
+allintitle [Faz uma busca de palavras que estão no título do site]
+Exemplo: allintitle:seja bem vindo
+(Lista todas as páginas que contém o nome seja bem vindo no título do site)
+
+allinurl [Faz uma busca de arquivos/palavras na url]
+Exemplo: allinurl:index.html
+(Lista todas as páginas que contém o arquivo index.swf no site)
+
+intext [Faz uma busca específica de palavras que estão na página]
+Exemplo: intext:senhas
+(Lista todas as páginas que contém a palavra “senha” no corpo)
+
+filetype [Faz uma busca específica e retorna apenas o tipo de arquivo citado]
+Exemplo: filetype:txt
+(Lista apenas arquivos txt, em qualquer site)
